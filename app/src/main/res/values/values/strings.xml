@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="iv_cover">Cover</string>
+    <string name="tv_login_text">Вход в приложение</string>
+    <string name="cb_agreement">Я принимаю соглашение</string>
+    <string name="btn_login">Войти</string>
+    <string name="et_email_hint">Введите email</string>
+    <string name="et_email_invalidate">Некорректный email</string>
+    <string name="et_password_hint">Введите пароль</string>
+    <string name="et_password_spaces">Пароль не может начинаться и заканчиваться пробелами</string>
+    <string name="et_password_length">Минимальная длина пароля %1$d символа</string>
+    <string name="btn_anr">ANR</string>
+</resources>
